@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "monad-testnet": {
+      "command": "bash",
+      "args": [
+        "/Users/simo/Work/web3/monad-mcp-2/run-mcp.sh"
+      ]
+    }
+  }
+}
